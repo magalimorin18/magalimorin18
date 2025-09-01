@@ -42,4 +42,4 @@ EthCC 7 (2024) — Talk on Relayer Services, a gas fee tool to onboard new block
 
 - SIWE login (coming soon...)
   
-- Create a gasless transaction tool [watch]((https://www.youtube.com/watch?v=cpmO3RUu_OM))
+- Create a gasless transaction tool [watch](https://www.youtube.com/watch?v=cpmO3RUu_OM)
