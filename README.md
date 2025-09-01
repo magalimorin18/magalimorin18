@@ -25,7 +25,7 @@ Currently working at LUKSO, a blockchain startup paving the way for account abst
 
 Deepening expertise in Solidity and DevOps
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 EthCC Prague Hackathon 2024 — Prize winner, project on The Graph
 
@@ -33,12 +33,12 @@ Aleph Hackathon Mar 2025 — Prize winner, project on Mantle
 
 Aleph Hackathon Aug 2025 — Prize winner, project on Base
 
-# 🎤 Speaker
+## 🎤 Speaker
 
 EthCC 7 (2024) — Talk on Relayer Services, a gas fee tool to onboard new blockchain users [watch now](https://ethcc.io/archives/onboarding-new-users-using-a-gasless-transaction-tool)
 
 
-# ✍️ Articles and Workshops
+## ✍️ Articles and Workshops
 
 - SIWE login (coming soon...)
   
