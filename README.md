@@ -1,4 +1,4 @@
-## Backend dev in Web3
+## Full stack Web3 developer
 
 Bridging the gap between advanced blockchain technology and seamless user experiences.
 
